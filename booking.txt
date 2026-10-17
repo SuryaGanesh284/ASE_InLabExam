@@ -1,0 +1,3 @@
+Hotel Name: Grand Palace
+Room Type: Deluxe
+Price: 2500
